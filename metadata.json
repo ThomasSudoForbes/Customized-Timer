@@ -1,0 +1,5 @@
+{
+  "name": "Customized Timer",
+  "description": "A customizable interval timer with a futuristic, dark UI. Users can set up alternating cool-down and work periods, visualize them on a timeline, and modify durations on the fly.",
+  "requestFramePermissions": []
+}
